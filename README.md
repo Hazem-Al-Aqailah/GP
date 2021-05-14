@@ -1,3 +1,7 @@
+## GP2  
+
+## NOTE: this is a graduation project
+
 # max30102
 
 MAX30102 Pulse Oximetry Sensor code for Raspberry Pi
